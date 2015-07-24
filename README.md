@@ -1,5 +1,5 @@
 # Projeto-RPG
-Tarefas:
+#Tarefas:
 
-Ficha de cadastro : Ericson
-Atributos dos personagens : Bruno
+#Ficha de cadastro : Ericson
+#Atributos dos personagens : Bruno
